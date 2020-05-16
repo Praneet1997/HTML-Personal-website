@@ -1,0 +1,20 @@
+
+            body {
+                background-color:powderblue;
+                border: black;
+
+            }
+            hr{
+                background-color: rgb(213, 26, 26);
+                border-style: none;
+                border-top: 1px;
+                height: 2px;
+            }
+            p{
+
+            }
+            img{
+                border: olivedrab;
+                border-radius: 3px;
+                
+            }
